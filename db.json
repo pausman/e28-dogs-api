@@ -7,6 +7,7 @@
     "id": 1,
     "name": "African Hunting Dog",
     "bred_for": "A wild pack animal",
+    "breed_group": "Non-Sporting",
     "life_span": "11 years",
     "temperament": "Wild, Hardworking, Dutiful",
     "origin": "",
