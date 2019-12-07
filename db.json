@@ -2,7 +2,7 @@
     "dogs":
     [
   {
-    "weight": "44 - 66",
+    "weight": "Medium",
     "height": "30",
     "id": 1,
     "name": "African Hunting Dog",
@@ -13,7 +13,7 @@
     "url": "https://cdn2.thedogapi.com/images/rkiByec47_1280.jpg"
   },
   {
-    "weight": "20 - 40",
+    "weight": "Small",
     "height": "15 - 19",
     "id": 2,
     "name": "American Eskimo Dog",
@@ -25,7 +25,7 @@
     "url": "https://cdn2.thedogapi.com/images/Bymjyec4m_1280.jpg"
   },
   {
-    "weight": "65 - 75",
+    "weight": "Large",
     "height": "21 - 28",
     "id": 3,
     "name": "American Foxhound",
@@ -37,7 +37,7 @@
     "url": "https://cdn2.thedogapi.com/images/S14n1x9NQ_1280.jpg"
   },
   {
-    "weight": "50 - 60",
+    "weight": "Medium",
     "height": "17 - 19",
     "id": 4,
     "name": "American Staffordshire Terrier",
@@ -49,7 +49,7 @@
     "url": "https://cdn2.thedogapi.com/images/rJIakgc4m_1280.jpg"
   },
   {
-    "weight": "25 - 45",
+    "weight": "Medium",
     "height": "15 - 18",
     "id": 5,
     "name": "American Water Spaniel",
@@ -61,7 +61,7 @@
     "url": "https://cdn2.thedogapi.com/images/SkmRJl9VQ_1280.jpg"
   },
   {
-    "weight": "80 - 150",
+    "weight": "Huge",
     "height": "27 - 29",
     "id": 6,
     "name": "Anatolian Shepherd Dog",
@@ -72,7 +72,7 @@
     "url": "https://cdn2.thedogapi.com/images/BJT0Jx5Nm_1280.jpg"
   },
   {
-    "weight": "35 - 65",
+    "weight": "Medium",
     "height": "18 - 23",
     "id": 7,
     "name": "Australian Shepherd",
@@ -84,7 +84,7 @@
     "url": "https://cdn2.thedogapi.com/images/B1-llgq4m_1280.jpg"
   },
   {
-    "weight": "20 - 35",
+    "weight": "Small",
     "height": "13 - 15",
     "id": 8,
     "name": "Beagle",
@@ -95,7 +95,7 @@
     "url": "https://cdn2.thedogapi.com/images/Syd4xxqEm_1280.jpg"
   },
   {
-    "weight": "40 - 80",
+    "weight": "Large",
     "height": "22 - 26",
     "id": 9,
     "name": "Belgian Malinois",
@@ -106,7 +106,7 @@
     "url": "https://cdn2.thedogapi.com/images/r1f_ll5VX_1280.jpg"
   },
   {
-    "weight": "40 - 65",
+    "weight": "Medium",
     "height": "22 - 26",
     "id": 10,
     "name": "Belgian Tervuren",
@@ -117,7 +117,7 @@
     "url": "https://cdn2.thedogapi.com/images/B1KdxlcNX_1280.jpg"
   },
   {
-    "weight": "65 - 120",
+    "weight": "Huge",
     "height": "23 - 27.5",
     "id": 11,
     "name": "Bernese Mountain Dog",
@@ -128,7 +128,7 @@
     "url": "https://cdn2.thedogapi.com/images/S1fFlx5Em_1280.jpg"
   },
   {
-    "weight": "80 - 110",
+    "weight": "Huge",
     "height": "23 - 27",
     "id": 12,
     "name": "Bloodhound",
@@ -139,7 +139,7 @@
     "url": "https://cdn2.thedogapi.com/images/Skdcgx9VX_1280.jpg"
   },
   {
-    "weight": "45 - 80",
+    "weight": "Medium",
     "height": "21 - 27",
     "id": 13,
     "name": "Bluetick Coonhound",
@@ -150,7 +150,7 @@
     "url": "https://cdn2.thedogapi.com/images/rJxieg9VQ_1280.jpg"
   },
   {
-    "weight": "110 - 200",
+    "weight": "Huge",
     "height": "22 - 27",
     "id": 14,
     "name": "Boerboel",
@@ -161,7 +161,7 @@
     "url": "https://cdn2.thedogapi.com/images/HyOjge5Vm_1280.jpg"
   },
   {
-    "weight": "70 - 110",
+    "weight": "Large",
     "height": "23.5 - 27.5",
     "id": 15,
     "name": "Bouvier des Flandres",
@@ -172,7 +172,7 @@
     "url": "https://cdn2.thedogapi.com/images/Byd0xl5VX_1280.jpg"
   },
   {
-    "weight": "50 - 70",
+    "weight": "Medium",
     "height": "21.5 - 25",
     "id": 16,
     "name": "Boxer",
@@ -183,7 +183,7 @@
     "url": "https://cdn2.thedogapi.com/images/ry1kWe5VQ_1280.jpg"
   },
   {
-    "weight": "25 - 40",
+    "weight": "Medium",
     "height": "14 - 18",
     "id": 17,
     "name": "Boykin Spaniel",
@@ -194,7 +194,7 @@
     "url": "https://cdn2.thedogapi.com/images/ryHJZlcNX_1280.jpg"
   },
   {
-    "weight": "55 - 88",
+    "weight": "Large",
     "height": "21.5 - 26.5",
     "id": 18,
     "name": "Bracco Italiano",
@@ -205,7 +205,7 @@
     "url": "https://cdn2.thedogapi.com/images/S13yZg5VQ_1280.jpg"
   },
   {
-    "weight": "70 - 90",
+    "weight": "Large",
     "height": "22 - 27",
     "id": 19,
     "name": "Briard",
@@ -216,7 +216,7 @@
     "url": "https://cdn2.thedogapi.com/images/rkVlblcEQ_1280.jpg"
   },
   {
-    "weight": "25 - 33",
+    "weight": "Small",
     "height": "10 - 14",
     "id": 20,
     "name": "Bull Terrier (Miniature)",
@@ -237,7 +237,7 @@
     "url": "https://cdn2.thedogapi.com/images/B1pDZx9Nm_1280.jpg"
   },
   {
-    "weight": "45 - 60",
+    "weight": "Medium",
     "height": "18 - 20",
     "id": 22,
     "name": "Chinese Shar-Pei",
@@ -248,7 +248,7 @@
     "url": "https://cdn2.thedogapi.com/images/B1ruWl94Q_1280.jpg"
   },
   {
-    "weight": "50 - 90",
+    "weight": "Large",
     "height": "22 - 26",
     "id": 23,
     "name": "Chinook",
@@ -259,7 +259,7 @@
     "url": "https://cdn2.thedogapi.com/images/Sypubg54Q_1280.jpg"
   },
   {
-    "weight": "40 - 70",
+    "weight": "Medium",
     "height": "17 - 20",
     "id": 24,
     "name": "Chow Chow",
@@ -270,7 +270,7 @@
     "url": "https://cdn2.thedogapi.com/images/ry8KWgqEQ_1280.jpg"
   },
   {
-    "weight": "55 - 85",
+    "weight": "Medium",
     "height": "17 - 20",
     "id": 25,
     "name": "Clumber Spaniel",
