@@ -222,6 +222,7 @@
     "id": 20,
     "name": "Bull Terrier (Miniature)",
     "bred_for": "An elegant man's fashion statement",
+    "breed_group": "Non-Sporting",
     "life_span": "11 – 14 years",
     "temperament": "Trainable, Protective, Sweet-Tempered, Keen, Active, Territorial",
     "url": "https://cdn2.thedogapi.com/images/BkKZWlcVX_1280.jpg"
